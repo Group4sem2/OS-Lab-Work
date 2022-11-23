@@ -20,12 +20,12 @@
 
 6. Write a prg to compute Finish time, turn Around Time and Wiating Time for 
    1. FCFS - first come first serve (Non -premtive)
-   2. SRTF - or SJF/ Shortest Job First (Premtive)
+   2. SRTF - or SJF/ Shortest Job First (Premptive)
    3. Priority Scheduling (Premtive) for Lower No of priority
    
 7. Write a prg to compute Finish time, turn Around Time and Wiating Time for 
    1. Round Robin Algorithm 
-   2. Priority Scheduling (Premtive) for Higher No of Priority
+   2. Priority Scheduling (Premptive) for Higher No of Priority
    
 8. Implement Banker's Algorithm
 
