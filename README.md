@@ -3,14 +3,14 @@
 **Date : 23rd Nov 2022**
 
 1. System Calls
-   a. CreateFile()
-   b. WriteFile()
-   c. CloseHandle()
+   1. CreateFile()
+   2. WriteFile()
+   3. CloseHandle()
    
 2. Implement Shell Script
-   a. Prime no
-   b. Palindrome
-   c. String Reverse
+   1. Prime no
+   2. Palindrome
+   3. String Reverse
    
 3. Implement Matrix operation for Multithreading
 
