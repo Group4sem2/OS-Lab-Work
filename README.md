@@ -1,5 +1,6 @@
-Python and Bash codes 
-Date : 23rd Nov 2022
+**Python and Bash codes**
+
+**Date : 23rd Nov 2022**
 
 1. System Calls
    a. CreateFile()
